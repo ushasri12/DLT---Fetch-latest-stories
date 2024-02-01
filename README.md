@@ -1,6 +1,7 @@
 Run the following commands in the terminal - 
 
  --> python fetch.y
+ 
  --> python extract.py
 
  The output will be as follows - 
